@@ -1,4 +1,4 @@
-![MasterHead](https://www.gifntext.com/temp_generations/yL23CA1I.gif)
+<img alt="Coding" width="100%" src="https://www.gifntext.com/temp_generations/CDBgrZTY.gif">
 <h1 align="center">Hi, I'm ANSIL RAHMAN</h1>
 <h3 align="center">Python Full Stack Developer, blending analytical thinking with programming expertise. Focused on solving real-world challenges and enhancing user experiences. Let's collaborate on turning innovative ideas into impactful solutions!</h3>
 
