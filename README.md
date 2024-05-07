@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Django & React**
 
-- 📫 How to reach me **[ansilrahman777.vercel.app](https://ansilrahman777.vercel.app/)**
+- 📫 How to reach me **[ansilrahman777.vercel.app](https://ansilrahman777.vercel.app/contact)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
