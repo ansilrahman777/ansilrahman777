@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm ANSIL RAHMAN</h1>
 <h3 align="center">Python Full Stack Developer, blending analytical thinking with programming expertise. Focused on solving real-world challenges and enhancing user experiences. Let's collaborate on turning innovative ideas into impactful solutions!</h3>
 <img align="right" alt="Coding" width="400" src="https://www.activeblogs.com/wp-content/uploads/2021/08/1628529290971.gif">
-- 🌱 I’m currently learning **Data Structure & Algorithm**
-- 💬 Ask me about **Python, Django & React**
-- 📫 How to reach me **[ansilrahman777.vercel.app](https://ansilrahman777.vercel.app/contact)**
+- 🌱 I’m currently learning Data Structure & Algorithm
+- 💬 Ask me about Python, Django & React
+- 📫 How to reach me [ansilrahman777.vercel.app](https://ansilrahman777.vercel.app/contact)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ansilrahman777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansilrahman777" height="30" width="40" /></a>
