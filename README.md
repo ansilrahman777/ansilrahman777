@@ -80,15 +80,14 @@ Seasoned, forward-looking software engineer with 1.5 years of experience in deve
 
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
 
-<p style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ansilrahman777&show_icons=true&theme=radical" alt="GitHub Stats" width="250" height="100">
-    <img src="https://github-contributor-stats.vercel.app/api?username=ansilrahman777&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" width="250" height="100">
-    <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=ansilrahman777&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="250" height="100">
-    </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansilrahman777&layout=compact&theme=blue-green" alt="GitHub Langs" width="250" height="100">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansilrahman777&theme=github-compact" alt="Github activity graph" width="250" height="100">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansilrahman777&show_icons=true&theme=radical)
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=ansilrahman777&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ansilrahman777&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansilrahman777&layout=compact&theme=blue-green)
+
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansilrahman777&theme=github-compact)
+
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=ansilrahman777&theme=discord)
 
 
