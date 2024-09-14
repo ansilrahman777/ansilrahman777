@@ -16,14 +16,13 @@
 
 #### **ANSIL RAHMAN** | Full Stack Developer | Backend Developer (Python/Django) | Frontend Developer (React.js)
 
-<img src="animated/light_1.gif" height="20px" /> I’m a highly motivated Python Full Stack Developer with 1+ years of experience in Django, React.js, and related technologies. My expertise includes developing scalable web applications, optimizing performance, and improving user experiences in fast-paced environments.Skilled in collaborating with cross-functional teams, I am passionate about coding challenges, hackathons, and exploring new technologies. I’m also keen on contributing to open-source projects and constantly seeking opportunities to enhance my skill set.
+<img src="animated/light_1.gif" height="20px" />  Seasoned, forward-looking software engineer with 1.5 years of experience in developing and executing innovative solutions to enhance business productivity. Highly skilled in both frontend and backend web development, with extensive experience in related technologies. Consistently recognized for contributions to the immersive sector and web development. Adept at coordinating cross-functional teams in fast-paced, deadline-driven environments.
 
 # 🛠️ Tech Stack Skills
 
 ### 💻 Operating System
 
 ![Windows](https://img.shields.io/badge/windows-%230769AD.svg?style=for-the-badge&logo=windows&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-%2307405e.svg?style=for-the-badge&logo=Linux&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E34F26.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### 💻 Languages
@@ -46,10 +45,9 @@
 
 ### 💻 Back-End Development
 
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Nginx](https://img.shields.io/badge/Nginx-009900?style=for-the-badge&logo=nginx&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009900?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### 💻 Databases
 
@@ -78,6 +76,11 @@
 ### 💻 Development Tools
 
 ![Github](https://img.shields.io/badge/github-%23121013.svg?style=for-the-badge&logo=github&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=Eclipse&logoColor=white) 
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789.svg?style=for-the-badge&logo=PyCharm&logoColor=white) 
+![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=Visual-studio-code&logoColor=white) 
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
+
 
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
 
