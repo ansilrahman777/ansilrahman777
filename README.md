@@ -11,7 +11,7 @@
 
 #### **ANSIL RAHMAN** | Full Stack Developer | Backend Developer (Python/Django) | Frontend Developer (React.js)
 
-<img src="animated/light_1.gif" height="20px" />  Seasoned, forward-looking software engineer with 1.5 years of experience in developing and executing innovative solutions to enhance business productivity. Highly skilled in both frontend and backend web development, with extensive experience in related technologies. Consistently recognized for contributions to the immersive sector and web development. Adept at coordinating cross-functional teams in fast-paced, deadline-driven environments.
+<img src="animated/light_1.gif" height="20px" />Seasoned, forward-looking software engineer with 1.5 years of experience in developing and executing innovative solutions to enhance business productivity. Highly skilled in both frontend and backend web development, with extensive experience in related technologies. Consistently recognized for contributions to the immersive sector and web development. Adept at coordinating cross-functional teams in fast-paced, deadline-driven environments.
 
 # 🛠️ Tech Stack Skills
 
