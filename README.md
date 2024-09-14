@@ -16,21 +16,7 @@
 
 #### **ANSIL RAHMAN** | Full Stack Developer | Backend Developer (Python/Django) | Frontend Developer (React.js)
 
-<img src="animated/light_1.gif" height="20px" /> I’m a highly motivated Python Full Stack Developer with 1+ years of experience in Django, React.js, and related technologies. My expertise includes developing scalable web applications, optimizing performance, and improving user experiences in fast-paced environments.
-
-Skilled in collaborating with cross-functional teams, I am passionate about coding challenges, hackathons, and exploring new technologies. I’m also keen on contributing to open-source projects and constantly seeking opportunities to enhance my skill set.
-
-## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansilrahman777&show_icons=true&theme=radical)
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=ansilrahman777&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ansilrahman777&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansilrahman777&layout=compact&theme=blue-green)
-
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansilrahman777&theme=github-compact)
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=ansilrahman777&theme=discord)
+<img src="animated/light_1.gif" height="20px" /> I’m a highly motivated Python Full Stack Developer with 1+ years of experience in Django, React.js, and related technologies. My expertise includes developing scalable web applications, optimizing performance, and improving user experiences in fast-paced environments.Skilled in collaborating with cross-functional teams, I am passionate about coding challenges, hackathons, and exploring new technologies. I’m also keen on contributing to open-source projects and constantly seeking opportunities to enhance my skill set.
 
 # 🛠️ Tech Stack Skills
 
@@ -93,7 +79,19 @@ Skilled in collaborating with cross-functional teams, I am passionate about codi
 
 ![Github](https://img.shields.io/badge/github-%23121013.svg?style=for-the-badge&logo=github&logoColor=white)
 
-[![](https://visitcount.itsvg.in/api?id=ansilrahman777&icon=5&color=0)](https://visitcount.itsvg.in)
+## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansilrahman777&show_icons=true&theme=radical)
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=ansilrahman777&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ansilrahman777&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansilrahman777&layout=compact&theme=blue-green)
+
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansilrahman777&theme=github-compact)
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=ansilrahman777&theme=discord)
+
+
 
 
 
