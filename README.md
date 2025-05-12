@@ -20,6 +20,8 @@ Seasoned, forward-looking software engineer with 2+ years of experience in devel
 
 ![Windows](https://img.shields.io/badge/windows-%230769AD.svg?style=for-the-badge&logo=windows&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E34F26.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+
 
 ### 💻 Languages
 
