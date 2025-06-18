@@ -16,7 +16,7 @@ Dynamic and results-driven Full Stack Developer with experience in designing and
 
 
 
-<p align="center">
+<p style="text-align: center;">
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
