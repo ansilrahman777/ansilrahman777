@@ -40,7 +40,7 @@ Dynamic and results-driven Full Stack Developer with experience in designing and
 
 ###  Tech Stack & Tools
 
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
     <td><img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /></td>
