@@ -10,7 +10,7 @@
 #### **ANSIL RAHMAN** | Full Stack Engineer | Backend Developer (Python/Django) | Frontend Developer (React.js)
 
 <p style="text-align: justify;">
-Seasoned, forward-looking software engineer with 2+ years of experience in developing and executing innovative solutions to enhance business productivity. Highly skilled in both frontend and backend web development, with extensive experience in related technologies. Consistently recognized for contributions to the immersive sector and web development. Adept at coordinating cross-functional teams in fast-paced, deadline-driven environments.
+Dynamic and results-driven Full Stack Developer with experience in designing and implementing innovative web solutions to improve business efficiency. Proficient in both frontend and backend development with a strong grasp of modern technologies. Known for delivering quality work in fast-paced, collaborative environments and contributing to impactful web projects across diverse domains.
 </p>
 
 
@@ -81,12 +81,6 @@ Seasoned, forward-looking software engineer with 2+ years of experience in devel
 
 
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansilrahman777&show_icons=true&theme=radical)
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=ansilrahman777&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ansilrahman777&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansilrahman777&layout=compact&theme=blue-green)
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansilrahman777&theme=github-compact)
 
