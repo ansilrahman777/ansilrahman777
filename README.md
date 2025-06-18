@@ -114,8 +114,6 @@ Dynamic and results-driven Full Stack Developer with experience in designing and
   <img width="12" />
   <img src="https://cdn.simpleicons.org/render/A9A9A9" height="30" alt="render logo" title="Render" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/cloudinary/001E4F" height="30" alt="cloudinary logo" title="Cloudinary" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" title="Figma" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo" title="Canva" />
@@ -127,8 +125,7 @@ Dynamic and results-driven Full Stack Developer with experience in designing and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" title="VSCode" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="30" alt="google colab logo" title="Google Colab" />
-  <img width="15" />
-    <img src="https://cdn-icons-png.flaticon.com/512/414/414927.png" height="30" alt="utho cloud service logo" title="Utho Cloud Service" />
+
 
 </div>
 
