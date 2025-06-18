@@ -1,20 +1,45 @@
-# <img src="animated/rabbit.gif" height="30" /> Hey, I'm **ANSIL RAHMAN** <img src="animated/hands.gif" height="30" />
+<h1 align="center">
+  <img src="animated/rabbit.gif" height="30" /> Hey, I'm <strong>ANSIL RAHMAN</strong> <img src="animated/hands.gif" height="30" />
+</h1>
 
+<p align="center">
+  <a href="mailto:ansilrahman777@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://ansilrahman.in">
+    <img src="https://img.shields.io/badge/-Portfolio-FE7A16?logo=Google-chrome&logoColor=white" />
+  </a>
+  <a href="https://wa.me/+918592959403">
+    <img src="https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ansilrahman777">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/rahmanansil777/">
+    <img src="https://img.shields.io/badge/LeetCode-FE7A16.svg?logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://discord.com/channels/@me">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/anzil.rahman.k/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/ansil.rahman.777/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
+  </a>
+</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:ansilrahman777@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Google-chrome&logoColor=white)](https://ansilrahman.in) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+918592959403) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansilrahman777) [![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/rahmanansil777/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anzil.rahman.k/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ansil.rahman.777/)
+---
 
+###  Full Stack Engineer | Backend Developer (Python/Django) | Frontend Developer (React.js)
 
-
-#### Full Stack Engineer | Backend Developer (Python/Django) | Frontend Developer (React.js)
-
-<p style="text-align: justify;">
+<p align="justify">
 Dynamic and results-driven Full Stack Developer with experience in designing and implementing innovative web solutions to improve business efficiency. Proficient in both frontend and backend development with a strong grasp of modern technologies. Known for delivering quality work in fast-paced, collaborative environments and contributing to impactful web projects across diverse domains.
 </p>
 
+---
 
-### Tech Stack Skills
-
-
+###  Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -67,6 +92,14 @@ Dynamic and results-driven Full Stack Developer with experience in designing and
 </p>
 
 
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansilrahman777&theme=github-compact)
+---
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=ansilrahman777&theme=discord)
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansilrahman777&theme=github-compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ansilrahman777&theme=discord" />
+</p>
