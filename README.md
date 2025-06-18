@@ -125,12 +125,6 @@ Dynamic and results-driven Full Stack Developer with experience in designing and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" title="VSCode" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="30" alt="google colab logo" title="Google Colab" />
-
-
 </div>
 
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ansilrahman777&theme=discord" />
-</p>
