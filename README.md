@@ -29,7 +29,6 @@
   </a>
 </p>
 
----
 
 ###  Full Stack Engineer | Backend Developer (Python/Django) | Frontend Developer (React.js)
 
@@ -37,7 +36,7 @@
 Dynamic and results-driven Full Stack Developer with experience in designing and implementing innovative web solutions to improve business efficiency. Proficient in both frontend and backend development with a strong grasp of modern technologies. Known for delivering quality work in fast-paced, collaborative environments and contributing to impactful web projects across diverse domains.
 </p>
 
----
+
 
 ###  Tech Stack & Tools
 
@@ -91,14 +90,6 @@ Dynamic and results-driven Full Stack Developer with experience in designing and
   <img src="https://img.shields.io/badge/google%20colab-F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab" />
 </p>
 
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansilrahman777&theme=github-compact" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ansilrahman777&theme=discord" />
