@@ -1,28 +1,24 @@
 # <img src="animated/rabbit.gif" height="30" /> Hey, I'm **ANSIL RAHMAN** <img src="animated/hands.gif" height="30" />
 
-## 🔗 Links
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:ansilrahman777@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Google-chrome&logoColor=white)](https://ansilrahman.in) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+918592959403) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansilrahman777) [![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/rahmanansil777/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anzil.rahman.k/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ansil.rahman.777/)
 
 
-## 🚀 About Me
 
-#### **ANSIL RAHMAN** | Full Stack Engineer | Backend Developer (Python/Django) | Frontend Developer (React.js)
+#### Full Stack Engineer | Backend Developer (Python/Django) | Frontend Developer (React.js)
 
 <p style="text-align: justify;">
 Dynamic and results-driven Full Stack Developer with experience in designing and implementing innovative web solutions to improve business efficiency. Proficient in both frontend and backend development with a strong grasp of modern technologies. Known for delivering quality work in fast-paced, collaborative environments and contributing to impactful web projects across diverse domains.
 </p>
 
 
-# 🛠️ Tech Stack Skills
+### Tech Stack Skills
 
 
 
-![Windows](https://img.shields.io/badge/windows-%230769AD.svg?style=for-the-badge&logo=windows&logoColor=white) 
-![Ubuntu](https://img.shields.io/badge/ubuntu-%23E34F26.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JSX](https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=black)
