@@ -2,14 +2,14 @@
 
 ## 🔗 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:ansilrahman777@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Google-chrome&logoColor=white)](https://ansilrahman.in)  
-[![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+918592959403)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansilrahman777)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/rahmanansil777/)  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anzil.rahman.k/)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ansil.rahman.777/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="Gmail" width="24" height="24" />](mailto:ansilrahman777@gmail.com)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/googlechrome.svg" alt="Portfolio" width="24" height="24" />](https://ansilrahman.in)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" alt="Whatsapp" width="24" height="24" />](https://wa.me/+918592959403)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" />](https://www.linkedin.com/in/ansilrahman777)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/leetcode.svg" alt="LeetCode" width="24" height="24" />](https://leetcode.com/u/rahmanansil777/)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/discord.svg" alt="Discord" width="24" height="24" />](https://discord.com/channels/@me)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" alt="Instagram" width="24" height="24" />](https://www.instagram.com/anzil.rahman.k/)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/facebook.svg" alt="Facebook" width="24" height="24" />](https://www.facebook.com/ansil.rahman.777/)
 
 ---
 
@@ -25,84 +25,76 @@ Dynamic and results-driven Full Stack Developer experienced in designing and imp
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Operating Systems
-![Windows](https://img.shields.io/badge/windows-%230769AD.svg?style=for-the-badge&logo=windows&logoColor=white)  
-![Ubuntu](https://img.shields.io/badge/ubuntu-%23E34F26.svg?style=for-the-badge&logo=ubuntu&logoColor=white)  
-![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)  
+### 💻 Operating Systems  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/windows.svg" alt="Windows" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/ubuntu.svg" alt="Ubuntu" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linux.svg" alt="Linux" width="32" height="32" />  
 
-### 💻 Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![JSX](https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+### 💻 Programming Languages  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/c.svg" alt="C" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" alt="Python" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" alt="JavaScript" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/java.svg" alt="Java" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" alt="JSX" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg" alt="HTML5" width="32" height="32" />  
 
-### 💻 Frontend Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-EF6C00?style=for-the-badge&logo=framer&logoColor=white)  
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+### 💻 Frontend Development  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nextdotjs.svg" alt="Next.js" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" alt="React" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" alt="CSS3" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/bootstrap.svg" alt="Bootstrap" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tailwindcss.svg" alt="Tailwind CSS" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jquery.svg" alt="jQuery" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/framer.svg" alt="Framer Motion" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/redux.svg" alt="Redux" width="32" height="32" />  
 
-### 💻 Backend Development
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Nginx](https://img.shields.io/badge/Nginx-009900?style=for-the-badge&logo=nginx&logoColor=white)  
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=python&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  
-![Sanity](https://img.shields.io/badge/Sanity-FA5C00?style=for-the-badge&logo=sanity&logoColor=white)  
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  
+### 💻 Backend Development  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/django.svg" alt="Django" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/flask.svg" alt="Flask" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nginx.svg" alt="Nginx" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" alt="Gunicorn" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jsonwebtokens.svg" alt="JWT" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/sanity.svg" alt="Sanity" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/npm.svg" alt="NPM" width="32" height="32" />  
 
-### 💻 Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
-![Backblaze](https://img.shields.io/badge/Backblaze-F53B00?style=for-the-badge&logo=backblaze&logoColor=white)  
+### 💻 Databases  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postgresql.svg" alt="PostgreSQL" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mongodb.svg" alt="MongoDB" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mysql.svg" alt="MySQL" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/firebase.svg" alt="Firebase" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/backblaze.svg" alt="Backblaze" width="32" height="32" />  
 
-### 💻 Testing & QA
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
-![unittest](https://img.shields.io/badge/unittest-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-6A5ACD?style=for-the-badge&logo=clipdrop&logoColor=white)  
-![Debugging](https://img.shields.io/badge/Debugging-F14E32?style=for-the-badge&logo=bugatti&logoColor=white)  
+### 💻 Testing & QA  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postman.svg" alt="Postman" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/selenium.svg" alt="Selenium" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" alt="Unittest" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/bugatti.svg" alt="Manual Testing" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/bugatti.svg" alt="Debugging" width="32" height="32" />  
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/github%20actions-121013?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
-![Render](https://img.shields.io/badge/Render-EC4C47?style=for-the-badge&logo=render&logoColor=white)  
-![Neon](https://img.shields.io/badge/Neon-0AFFEF?style=for-the-badge&logo=neon&logoColor=black)  
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)  
+### ☁️ Cloud & DevOps  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/amazonaws.svg" alt="AWS" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/githubactions.svg" alt="GitHub Actions" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/docker.svg" alt="Docker" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/vercel.svg" alt="Vercel" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/render.svg" alt="Render" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/neon.svg" alt="Neon" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/cloudinary.svg" alt="Cloudinary" width="32" height="32" />  
 
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
+### 🎨 Design Tools  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/figma.svg" alt="Figma" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/canva.svg" alt="Canva" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/adobe.svg" alt="Adobe" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/adobephotoshop.svg" alt="Adobe Photoshop" width="32" height="32" />  
 
-### 🛠️ Development Tools
-![Github](https://img.shields.io/badge/github-%23121013.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=Eclipse&logoColor=white)  
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789.svg?style=for-the-badge&logo=PyCharm&logoColor=white)  
-![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)  
+### 🛠️ Development Tools  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/eclipseide.svg" alt="Eclipse" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/pycharm.svg" alt="PyCharm" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/visualstudiocode.svg" alt="VS Code" width="32" height="32" />  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/googlecolab.svg" alt="Google Colab" width="32" height="32" />  
 
----
-
-## <img src="animated/light_5.gif" height="30px" /> GitHub Stats
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ansilrahman777&theme=github-compact)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ansilrahman777&theme=discord)
 
 ---
-
 
 ## ⚡ Fun Fact
 
@@ -112,16 +104,10 @@ Dynamic and results-driven Full Stack Developer experienced in designing and imp
 
 Thanks for visiting my profile! Feel free to connect. 😊
 
+---
 
+## <img src="animated/light_5.gif" height="30px" /> GitHub Stats
 
-## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ansilrahman777&theme=github-compact)
 
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansilrahman777&theme=github-compact)
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=ansilrahman777&theme=discord)
-
-
-
-
-
-
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ansilrahman777&theme=discord)
