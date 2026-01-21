@@ -116,7 +116,7 @@ Dynamic and results-driven Full Stack Developer with experience in designing and
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" title="Figma" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo" title="Canva" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/canva.svg" height="30" alt="canva logo" title="Canva" style="filter: invert(41%) sepia(92%) saturate(748%) hue-rotate(148deg) brightness(95%) contrast(101%);" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="30" alt="eclipse logo" title="Eclipse" />
   <img width="12" />
